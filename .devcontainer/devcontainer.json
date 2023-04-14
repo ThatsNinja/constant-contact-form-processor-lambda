@@ -30,5 +30,6 @@
     ],
     "settings": {
       "python.pythonPath": "/usr/local/bin/python"
-    }
+    },
+    "postStartCommand": "npm install"
   }
